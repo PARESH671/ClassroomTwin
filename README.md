@@ -63,3 +63,4 @@ This implementation integrates methodologies and experimental setups from:
 ## 🧪 Mathematical Verification
 Run the 70+ regression checks against the Python reference model anytime inside Unity:
 > **Digital Twin > Run Self-Test** (All checks must show `PASS`).
+
