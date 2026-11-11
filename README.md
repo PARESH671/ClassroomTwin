@@ -26,6 +26,12 @@ This implementation integrates methodologies and experimental setups from:
 | **S5** | Fuzzy Lighting (CCIS 2024) | 3-Input Mamdani FIS | 85.2% |
 | **S6** | **Fuzzy Co-Regulation (IoT-J 2026)** | **Dual FIS: Lights + 30 Motorised Blinds** | **~83.6% Light + 38% Cooling Save** |
 
+## 📁 End-Semester Documentation & Presentation Resources
+All detailed documentation from the end-sem roadmap (`doc2`) is located in the [`Docs/`](Docs/) directory:
+- [`Docs/ClassroomTwin_EndSem_Build_Spec.pdf`](Docs/ClassroomTwin_EndSem_Build_Spec.pdf) — Complete 34-page specification with mathematical formulations, membership functions, FIS rule bases, and experimental benchmarks.
+- [`Docs/EndSem_Presentation_Guide.md`](Docs/EndSem_Presentation_Guide.md) — 10-slide ready-to-use PPT blueprint and presentation guide for team members.
+- [`Docs/Reference/model.py`](Docs/Reference/model.py) & [`expected_TwinResults.csv`](Docs/Reference/expected_TwinResults.csv) — Python reference model and benchmark validation data.
+
 ---
 
 ## 🛠️ How to Run (For Teammates)
